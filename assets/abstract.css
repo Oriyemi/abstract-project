@@ -139,3 +139,23 @@ h3{
     color: #0056b3;
     font-size: 0.8em;
 }
+.abstract-floor{
+    margin-bottom: 100px;
+    margin-top: 40px;
+}
+.floor{
+    margin: 40px;
+    padding: 20px;
+}
+.elevator h2{
+    margin: 40px;
+}
+.elevator p{
+    border: 1px solid #dadbf1;
+    border-radius: 5px;
+    background-color:#dadbf1 ;
+    margin: 40px;
+    padding: 25px;
+    font-size: 1.8rem;
+    line-height: 35px;
+}
