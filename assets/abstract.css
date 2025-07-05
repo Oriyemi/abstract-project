@@ -159,3 +159,42 @@ h3{
     font-size: 1.8rem;
     line-height: 35px;
 }
+.elevator p:hover{
+    color: #4c5fd5;
+}
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+footer img{
+    width:200px;
+    margin: 70px 50px;
+
+}
+.footer-page{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px;
+}
+/* .resources{
+    margin-left: 80px;
+} */
+.resources ul li{
+    text-decoration: none;
+    list-style: none;
+    color: gray;
+    font-size: 0.9em;
+    line-height: 25px;
+    
+}
+.resources ul li:hover{
+    color: #f9f9f9;
+}
+.resources h5{
+    color: #dadbf1;
+    margin-left: 40px;
+    font-size: 1.5em;
+    font-weight: 700;
+}
