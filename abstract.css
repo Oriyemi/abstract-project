@@ -210,3 +210,51 @@ footer img{
     font-size: 1.5em;
     font-weight: 700;
 }
+
+/* media queries */
+
+@media (min-width:601px) and (max-width:900px){
+    .header h1{
+    padding-top: 5rem ;
+    font-size: 3.5em ;
+ 
+}
+.header p{
+    font-size: 0.8em ;
+    line-height: 1.5em;
+     padding-bottom:5rem ;
+}
+.piechart{
+    display:grid;
+   
+}
+.piechart img{
+    width: 400px;
+}
+h3{
+    font-size: 3rem;
+}
+.piechart p{
+    font-size: 1rem;
+    line-height: 1.5em;
+    
+
+}
+footer{
+    background-color: black;
+    display: grid;
+    justify-content: space-between;
+  
+}
+footer img{
+    width:200px;
+    margin: 70px 50px;
+
+}
+.footer-page{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px;
+}
+    
+}
