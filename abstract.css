@@ -240,6 +240,20 @@ h3{
     
 
 }
+.logo{
+ display: inline-block;
+
+}
+.logo-card{
+    border: 1px solid #ddd;
+    margin: 30px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+.logo-card img{
+    max-width: 100%;
+    height:70%;
+}
 footer{
     background-color: black;
     display: grid;
@@ -256,5 +270,6 @@ footer img{
     justify-content: space-evenly;
     margin: 40px;
 }
+
     
 }
